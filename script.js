@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "точно ма?",
+    "ТОЧНО ТОЧНО МА??",
+    "подумай хорошенько",
+    "пуки пожалуйста...",
+    "мы будем очень вкусно кушать",
+    "жок десен мен сенимен 1 апта сойлеспеймин",
+    "2 апта сойлеспеймин",
+    "3 апта сойлеспеймин",
+    "лан пофиг отпраздную одна",
+    "пуки, я пошутнила. иа деши❤️"
 ];
 
 let messageIndex = 0;
